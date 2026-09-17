@@ -1,0 +1,11 @@
+{
+    "type": "mul",
+    "inputs": [
+        {
+            "type": "storage",
+            "storage": "heliblocker:temp",
+            "path": "all.rot[0]"
+        },
+        -1
+    ]
+}

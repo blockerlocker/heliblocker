@@ -1,0 +1,7 @@
+{
+    "type": "any_of",
+    "terms": [
+        "heliblocker:control/right",
+        "heliblocker:control/left"
+    ]
+}

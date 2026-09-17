@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "equipment",
+    "ingredients": [
+        "minecraft:pufferfish",
+        "#minecraft:harnesses"
+    ],
+    "result": {
+        "id": "glow_item_frame",
+        "components": {
+            "item_name": "Heliblocker",
+            "item_model": "player_head",
+            "profile": "blockerlocker",
+            "entity_data": {
+                "id": "glow_item_frame",
+                "Tags": ["heliblocker_summon"],
+                "Silent": true,
+                "Invisible": true
+            }
+        }
+    }
+}

@@ -1,0 +1,1 @@
+execute as @n[type=mannequin,tag=heliblocker_physics] at @s run function heliblocker:zzz/destroy/commit

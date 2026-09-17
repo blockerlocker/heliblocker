@@ -1,0 +1,14 @@
+{
+    "type": "inverted",
+    "term": {
+        "type": "entity_properties",
+        "entity": "this",
+        "predicate": {
+            "vehicle": {
+                "nbt": {
+                    "Tags": ["heliblocker"]
+                }
+            }
+        }
+    }
+}
